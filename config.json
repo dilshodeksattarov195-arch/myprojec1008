@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceualculate",
+        "uuid": 9037728,
+        "checksum": "nsqhrl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
